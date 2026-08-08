@@ -19,6 +19,12 @@
   Estudiante de Ingeniería en Informática y Sistemas en la UNJBG (Perú) y Full Stack Developer. Apasionado en el desarrollo de aplicaciones, tecnologia de cloud y soluciones con IA.
 </p>
 
+## About Me
+
+🔹 Actualmente estudiante de Ingeniería en Informática y Sistemas en la UNJBG - Perú  
+🔹 Apasionado por el desarrollo Full Stack, arquitecturas cloud, la IA aplicada y la optimización del backend.    
+🔹 Siempre explorando nuevas tecnologías, automatización de procesos y mejores prácticas de ingeniería de software.
+
 ### 💻 Lenguajes de Programación
 <p align="left">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -56,45 +62,6 @@
 <p align="left">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img alt="OpenCode AI" src="https://img.shields.io/badge/OpenCode_AI-000000?style=for-the-badge&logo=openai&logoColor=white">
-</p>
-
-## About Me
-
-🔹 Actualmente estudiante de Ingeniería en Informática y Sistemas en la UNJBG - Perú  
-🔹 Apasionado por el desarrollo Full Stack, arquitecturas cloud, la IA aplicada y la optimización del backend.    
-🔹 Siempre explorando nuevas tecnologías, automatización de procesos y mejores prácticas de ingeniería de software.
-
-## Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px">
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Manuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mmenaaguilar&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
-    </a>
-    <br/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmenaaguilar&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="mmenaaguilar" height="192px"/>
-    <br/>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/mmenaaguilar">
-      <img alt="Manuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mmenaaguilar&custom_title=Manuel's%20Contribution%20Graph&theme=react-dark" />
-    </a>
-  </p>
-</details>
-
-<br/>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmenaaguilar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
