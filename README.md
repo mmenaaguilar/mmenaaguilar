@@ -16,11 +16,10 @@
 </p>
 
 <p>
-  Estudiante de Ingeniería en Informática y Sistemas en la UNJBG (Perú) y Full Stack Developer. Me especializo en el desarrollo de aplicaciones web de extremo a extremo, diseño de arquitecturas distribuidas, integración de servicios cloud y la aplicación práctica de soluciones con Inteligencia Artificial.
+  Estudiante de Ingeniería en Informática y Sistemas en la UNJBG (Perú) y Full Stack Developer. Apasionado en el desarrollo de aplicaciones, tecnologia de cloud y soluciones con IA.
 </p>
 
-## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
-
+### 💻 Lenguajes de Programación
 <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,15 +33,23 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+</p>
+
+### 🚀 Frameworks y Bibliotecas
+<p align="center">
   <a href="https://react.dev/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
   <a href="https://nodejs.org/" target="_blank">
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
+</p>
+
+### 🛢️ Bases de Datos, DevOps y Herramientas
+<p align="center">
   <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
@@ -59,10 +66,9 @@
 
 ## About Me
 
-- 🔭 **Proyectos:** Desarrollando aplicaciones web Full Stack enfocadas en arquitecturas distribuidas con separación de servicios (Frontend / Backend).
-- 🌱 **Enfoque actual:** Profundizando en Cloud Computing, automatización de procesos y la integración práctica de modelos de IA aplicados.
-- ⚙️ **Especialidad:** Diseño e implementación de APIs RESTful, gestión de bases de datos y optimización en el backend.
-- 💬 **Hablemos sobre:** Desarrollo Full Stack, arquitectura de software, consumo de servicios en la nube o IA.
+🔹 Actualmente estudiante de Ingeniería en Informática y Sistemas en la UNJBG - Perú  
+🔹 Apasionado por el desarrollo Full Stack, arquitecturas cloud, la IA aplicada y la optimización del backend.    
+🔹 Siempre explorando nuevas tecnologías, automatización de procesos y mejores prácticas de ingeniería de software.
 
 ## Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px">
 
