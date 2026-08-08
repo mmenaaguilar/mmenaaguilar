@@ -7,22 +7,25 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tu-email@dominio.com?subject=Contacto%20Desde%20GitHub&body=Hola%20Manuel," target="_blank">
+  <a href="mailto:usuariommena@gmail.com?subject=Contacto%20Desde%20GitHub&body=Hola%20Manuel," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/mmenaaguilar/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://tu-portafolio.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white">
   </a>
 </p>
 
 <p>
-  Estudiante de Ingeniería en Informática y Sistemas en la UNJBG (Perú) y Full Stack Developer. Apasionado en el desarrollo de aplicaciones, tecnologia de cloud y soluciones con IA.
+  Estudiante de Ingeniería en Informática y Sistemas en la UNJBG - Perú y Full Stack Developer. Apasionado en el desarrollo de aplicaciones, cloud y soluciones con IA.
 </p>
 
 ## About Me
 
 🔹 Actualmente estudiante de Ingeniería en Informática y Sistemas en la UNJBG - Perú  
-🔹 Apasionado por el desarrollo Full Stack, arquitecturas cloud, la IA aplicada y la optimización del backend.    
+🔹 Apasionado por el desarrollo Full Stack, cloud y la IA aplicada.    
 🔹 Siempre explorando nuevas tecnologías, automatización de procesos y mejores prácticas de ingeniería de software.
 
 ### 💻 Developer Language 
