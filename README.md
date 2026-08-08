@@ -25,7 +25,7 @@
 🔹 Apasionado por el desarrollo Full Stack, arquitecturas cloud, la IA aplicada y la optimización del backend.    
 🔹 Siempre explorando nuevas tecnologías, automatización de procesos y mejores prácticas de ingeniería de software.
 
-### 💻 Lenguajes de Programación
+### 💻 Developer Language 
 <p align="left">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
@@ -35,7 +35,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p> 
 
-### 🚀 Frameworks y Bibliotecas
+### 🚀 Frameworks and Libraries
 <p align="left">
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -44,7 +44,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
-### 🛢️ Bases de Datos y DevOps
+### 🛢️ Data Base y DevOps
 <p align="left">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -71,7 +71,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"La complejidad es el enemigo de la ejecución. Código limpio y arquitectura sólida primero."</i>
-</p>
