@@ -10,7 +10,7 @@
   <a href="mailto:usuariommena@gmail.com?subject=Contacto%20Desde%20GitHub&body=Hola%20Manuel," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/mmenaaguilar/" target="_blank">
+  <a href="https://www.linkedin.com/in/manuel-eduardo-mena-aguilar-90a3b7428/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://tu-portafolio.com" target="_blank">
